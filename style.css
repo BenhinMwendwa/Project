@@ -1,0 +1,43 @@
+body{
+    background: fixed;
+    background-color: beige;
+}
+img{
+    width: 30%;
+    
+    margin-right: 10px;
+
+}
+#profile{
+padding: 10px;
+}
+.photos{
+    display: grid;
+    grid-template-columns: auto;
+    width: 900px;
+
+}
+h2{
+    
+    font-size: 40px;
+    background-color: 
+}
+.container
+{
+   width: 100%;
+   overflow: auto;
+   font-size: 20;
+   
+  }
+
+
+div.container{
+}
+.Myprofile{
+    text-align: right;
+    text-shadow: 20cap;
+
+}
+div.img{
+    
+}
